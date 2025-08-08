@@ -45,8 +45,6 @@ I love solving problems, learning new technologies, and contributing to open-sou
 <p>
   <a href="https://github.com/mehrajhr" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/mehraj-hr" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/thisismehraj_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.facebook.com/meh.raj.1426" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" /></a>
 </p>
 
 ---
