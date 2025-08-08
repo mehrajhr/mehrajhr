@@ -54,6 +54,6 @@ I love solving problems, learning new technologies, and contributing to open-sou
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehrajhr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehrajhr&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mehrajhr&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrajhr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
