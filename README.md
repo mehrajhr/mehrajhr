@@ -3,7 +3,7 @@
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">Hi 👋, I'm Mehraj Hasan Riaj</h1>
+<h1 align="center">Hi, I'm Mehraj Hasan Riaj</h1>
 <h3 align="center">MERN Stack Developer | Passionate about Scalable Web Applications | CSE Student at IIUC (2023-Present)</h3>
 
 ---
