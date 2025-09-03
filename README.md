@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Mxw6BpT5/1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/yBSSryDp/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
