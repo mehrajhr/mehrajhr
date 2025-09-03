@@ -24,6 +24,11 @@ I love solving problems, learning new technologies, and contributing to open-sou
 
 ## 🛠 Skills
 
+### Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,c++,javascript" />
+</p>
+
 ### Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
