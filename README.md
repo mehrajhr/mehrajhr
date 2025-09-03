@@ -26,7 +26,7 @@ I love solving problems, learning new technologies, and contributing to open-sou
 
 ### Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,c++,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript" />
 </p>
 
 ### Frontend  
